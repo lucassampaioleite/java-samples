@@ -19,7 +19,7 @@ public class Program {
 		list.add(new Product("Relógio", 800.00));
 		list.add(new Product("Carro", 90000.00));
 		
-		System.out.println(CalculationService.max(list));
+		System.out.println("Most Expensive: " + CalculationService.max(list));
 
 	}
 
