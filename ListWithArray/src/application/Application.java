@@ -32,6 +32,9 @@ public class Application {
 		list.add(2, new Student("Jorge"));
 		System.out.println(list);
 
+		System.out.println(list.contains(new Student("Pedro")));
+		System.out.println(list.contains(new Student("Zeca")));
+
 		list.remove(5);
 		System.out.println(list);
 		list.remove(0);
