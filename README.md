@@ -13,3 +13,4 @@
 7. [Leitura de arquivos de texto utilizando as classes File, BufferedReader e try-catch-resources.](./ReadFile)
 8. [Escrita de arquivos de texto utilizando BufferedWriter e try-catch-resources.](./WriteFile)
 9. [Implementação de uma Lista a partir de um vetor.](./ListWithArray)
+10. [Implementação de uma Lista ligada simples.](./SingleLinkedList)
