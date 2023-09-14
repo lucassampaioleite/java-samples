@@ -6,6 +6,12 @@ public class SingleLinkedList {
 	private Node lastNode;
 	private int node_counter;
 
+	public SingleLinkedList() {
+		firstNode = null;
+		lastNode = null;
+		node_counter = 0;
+	}
+
 	public void addFirst(Object obj) {
 		Node newNode = new Node(firstNode, obj);
 		firstNode = newNode;

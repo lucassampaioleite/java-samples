@@ -9,11 +9,13 @@ public class Application {
 
 		SingleLinkedList list = new SingleLinkedList();
 
+		System.out.println(list.size());
 		System.out.println(list);
+
 		list.addFirst(new Student("Lucas"));
 		System.out.println(list);
 		list.addFirst(new Student("Maíra"));
-    	System.out.println(list);
+		System.out.println(list);
 		list.add(new Student("Pedro"));
 		System.out.println(list);
 
@@ -38,7 +40,7 @@ public class Application {
 		System.out.println(list);
 		list.removeLast();
 		System.out.println(list);
-		
+
 		list.remove(1);
 		System.out.println(list);
 		list.remove(1);
@@ -47,7 +49,6 @@ public class Application {
 		System.out.println(list);
 		list.remove(0);
 		System.out.println(list);
-		
 		System.out.println(list.size());
 
 	}
