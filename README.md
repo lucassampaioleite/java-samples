@@ -15,3 +15,5 @@
 9. [Implementação de uma Lista a partir de um vetor.](./ListWithArray)
 10. [Implementação de uma Lista ligada simples.](./SingleLinkedList)
 11. [Implementação de uma Lista ligada dupla.](./DoublyLinkedList)
+12. [Exemplo de utilização da classe ArrayList do Java.](./ArrayListExample)
+13. [Exemplo de utilização da classe LinkedList do Java.](./LinkedListExample)
