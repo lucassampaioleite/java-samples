@@ -17,3 +17,6 @@
 11. [Implementação de uma Lista ligada dupla.](./DoublyLinkedList)
 12. [Exemplo de utilização da classe ArrayList do Java.](./ArrayListExample)
 13. [Exemplo de utilização da classe LinkedList do Java.](./LinkedListExample)
+14. [Exemplo de impementações (lazy, eager e lazy holder) do Padrão de projeto Singleton.](./Singleton)
+15. [Exemplo de impementação do Padrão de projeto Facade.](./Facade)
+16. [Exemplo de impementação do Padrão de projeto Strategy.](./Strategy)
