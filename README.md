@@ -17,3 +17,4 @@
 11. [Implementação de uma Lista ligada dupla.](./DoublyLinkedList)
 12. [Exemplo de utilização da classe ArrayList do Java.](./ArrayListExample)
 13. [Exemplo de utilização da classe LinkedList do Java.](./LinkedListExample)
+14. [Exemplos de implementação de algoritmos de ordenação.](./SortingAlgorithms)
